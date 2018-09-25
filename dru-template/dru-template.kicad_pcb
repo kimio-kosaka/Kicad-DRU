@@ -112,7 +112,7 @@
     (uvia_drill 0.1)
   )
 
-  (net_class クラス1 ""
+  (net_class class1 ""
     (clearance 0.7)
     (trace_width 0.8)
     (via_dia 0.9)
@@ -121,7 +121,7 @@
     (uvia_drill 0.1)
   )
 
-  (net_class クラス2 ""
+  (net_class class2 ""
     (clearance 0.5)
     (trace_width 0.5)
     (via_dia 0.6)
@@ -130,7 +130,7 @@
     (uvia_drill 0.1)
   )
 
-  (net_class クラス3 ""
+  (net_class class3 ""
     (clearance 0.35)
     (trace_width 0.5)
     (via_dia 0.6)
@@ -139,7 +139,7 @@
     (uvia_drill 0.1)
   )
 
-  (net_class クラス4 ""
+  (net_class class4 ""
     (clearance 0.25)
     (trace_width 0.23)
     (via_dia 0.6)
